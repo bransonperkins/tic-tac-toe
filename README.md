@@ -1,3 +1,7 @@
+Used a tutorial to follow along with the "Wrapping Up" section of the exercises. Link to that github repo is below:
+
+https://github.com/kelanwu/react-tic-tac-toe
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
